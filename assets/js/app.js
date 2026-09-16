@@ -27,7 +27,7 @@ let todosArr = [
 ];
 
 
-// localStorage.setItem('todosArr' , JSON.stringify(todosArr));
+localStorage.setItem('todosArr' , JSON.stringify(todosArr));
 // todosArr data :: DB(localstorage)
 
 
